@@ -5,6 +5,7 @@ Use of this data implies agreement with the terms below. See also:
 http://creativecommons.org/licenses/by/4.0/legalcode
 
 If you find the annotation useful, please consider citing our work:
+
 He, D., Cheng, Z., Hasegawa-Johnson, M., & Chen, D. (2017). Using Approximated Auditory Roughness as a Pre-filtering Feature for Human Screaming and Affective Speech AED.
 
 
