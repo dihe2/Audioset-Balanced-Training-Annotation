@@ -1,13 +1,12 @@
 # Audioset-Screaming-Balanced-Training-Annotation
-The annotations for Google AudioSet Screaming subset are released under the Creative
-Commons Attribution 4.0 license agreement (also called CC BY 4.0).
-Use of this data implies agreement with the terms below. See also:
-http://creativecommons.org/licenses/by/4.0/legalcode
-
 If you find the annotation useful, please consider citing our work:
 
 He, D., Cheng, Z., Hasegawa-Johnson, M., & Chen, D. (2017). Using Approximated Auditory Roughness as a Pre-filtering Feature for Human Screaming and Affective Speech AED.
 
+The annotations for Google AudioSet Screaming subset are released under the Creative
+Commons Attribution 4.0 license agreement (also called CC BY 4.0).
+Use of this data implies agreement with the terms below. See also:
+http://creativecommons.org/licenses/by/4.0/legalcode
 
 Creative Commons
 
